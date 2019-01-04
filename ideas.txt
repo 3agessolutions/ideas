@@ -1,0 +1,10 @@
+<sample-component
+    bind-a=""
+    ev-a=""
+>
+
+</sample-component>
+
+
+refresh('state', statename);
+refresh('view', viewName); //view - component or fragements
